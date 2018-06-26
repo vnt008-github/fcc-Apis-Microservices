@@ -1,6 +1,7 @@
-{
-	"author": "vnt",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "vnt Nguyen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +15,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/vnt008-github/fcc-Apis-Microservices.git"
-	}
+	}	
 }
